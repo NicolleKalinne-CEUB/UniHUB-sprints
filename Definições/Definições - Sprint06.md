@@ -1,6 +1,6 @@
 # Sprint 6 — Painel do Veterinário
 
-##Período
+## Período
 
 20/10/2026 a 02/11/2026.
 
@@ -34,7 +34,7 @@
 - Painel do Veterinário.
 - Agenda individual.
 - Registro de conclusão de atendimento.
-- Observações (avaliação).
+- Observações.
 - Histórico do pet.
 
 ## Issues concluídas
