@@ -1,10 +1,10 @@
 # Sprint 3 — Pets e Serviços
 
-##Período
+## Período
 
 08/09/2026 a 21/09/2026.
 
-##Objetivo
+## Objetivo
 
 - Permitir o gerenciamento inicial de pets e serviços, disponibilizando o catálogo de serviços da clínica aos usuários.
 
@@ -30,7 +30,7 @@
 - Validação: testes de CRUD, cadastro de pets e permissões.
 - Comunicação: validação das informações do catálogo com a clínica.
 
-##Entregas
+## Entregas
 
 - Cadastro de pets funcional.
 - CRUD de serviços.
@@ -45,22 +45,25 @@
 
 - A preencher.
 
-## Evidências
+## Evidências 
+
 - Demonstração do cadastro de pets.
 - Tela do catálogo.
 - Tela do CRUD administrativo.
 - Registros dos testes.
 
-##Impedimentos
+## Impedimentos
 
 - A preencher.
 
 ## Retrospectiva
+
 - Avaliar funcionamento dos CRUDs.
 - Identificar regras de negócio que necessitem de ajustes.
 - Registrar dificuldades de integração entre front-end e back-end.
 
 ## Próximas ações
+
 - Iniciar fluxo de agendamento.
 - Implementar calendário.
 - Configurar vagas e horários.
