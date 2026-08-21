@@ -1,6 +1,6 @@
 # Sprint 7 — Administração
 
-##Período
+## Período
 
 03/11/2026 a 16/11/2026.
 
@@ -44,7 +44,7 @@
 ## Pull requests aceitos
 
 - A preencher.
-- 
+
 ## Evidências
 
 - Screenshots do dashboard.
