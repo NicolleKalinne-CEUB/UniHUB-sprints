@@ -1,4 +1,4 @@
-## Sprint 1 — Planejamento e Fundação
+# Sprint 1 — Planejamento e Fundação
 Período
 
 11/08/2026 a 24/08/2026.
