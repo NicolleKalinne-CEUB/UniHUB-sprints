@@ -1,6 +1,6 @@
 # Sprint 5 — Painel do Atendente
 
-##Período
+## Período
 
 06/10/2026 a 19/10/2026.
 
